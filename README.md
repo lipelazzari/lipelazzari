@@ -1,9 +1,5 @@
-### Hi there 👋
+# sou o lazzari
 
-
-**lipelazzari/lipelazzari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on  emainda nao    
 - 🌱 I’m currently learning sobre a vida
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: indo ate eu
 - 😄 Pronouns: pessoal
 - ⚡ Fun fact: amigo do padilha
-
+##
